@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/cheetahM/burger#readme",
   "dependencies": {
-    "express": "^4.16.1"
+    "body-parser": "^1.18.2",
+    "express": "^4.16.1",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.10",
+    "mysql": "^2.15.0"
   }
 }
